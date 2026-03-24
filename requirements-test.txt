@@ -1,0 +1,10 @@
+# Test dependencies (CI-friendly, CPU-only, no notebook packages)
+networkx>=2.7.1
+numpy>=1.22.3
+scipy>=1.8.0
+matplotlib
+imageio
+tqdm
+autograd
+pytest
+pytest-cov

@@ -1,0 +1,25 @@
+{
+  "title": "NAIC WP7 UC3 — Pseudo-Hamiltonian Neural Networks",
+  "description": "Physics-preserving neural network architecture decomposing dynamics into conservation, dissipation, and external force components. Based on SINTEF's phlearn package.",
+  "creators": [
+    {
+      "name": "Eidnes, Sølve",
+      "affiliation": "SINTEF Digital"
+    },
+    {
+      "name": "Lye, Kjetil Olsen",
+      "affiliation": "SINTEF Digital"
+    }
+  ],
+  "keywords": [
+    "Hamiltonian",
+    "dynamical systems",
+    "physics-informed",
+    "NAIC WP7"
+  ],
+  "license": {
+    "id": "GPL-3.0-only"
+  },
+  "upload_type": "software",
+  "access_right": "open"
+}

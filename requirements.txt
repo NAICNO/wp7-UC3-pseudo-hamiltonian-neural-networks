@@ -1,0 +1,20 @@
+# Core dependencies (phlearn)
+networkx>=2.7.1
+numpy>=1.22.3
+scipy>=1.8.0
+torch
+torchvision
+torchaudio
+matplotlib
+imageio
+tqdm
+autograd
+IPython
+
+# Notebook and development
+jupyter
+jupyterlab
+ipywidgets
+
+# Cluster and remote execution
+paramiko
